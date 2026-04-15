@@ -19,7 +19,7 @@ namespace ClassDanObject_6576
             Console.WriteLine("Nama: {0}", Nama);
             Console.WriteLine("NIM: {0}", Nim);
             Console.WriteLine("IPK:{0}", Ipk);
-            Console.WriteLine("\nTelah melakukakn regestrasi");
+            Console.WriteLine("\nTelah melakukan registrasi");
         }
         public void IsiKrs()
         {
